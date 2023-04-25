@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: khongorzul-tumurbaatar/khongorzul-tumurbaatar.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: Khongorzul Tumurbaatar
-title: Accountant, Accounting Analysis, Financial Auditor
+title: Accountant & Financial Auditor
 email: khongorzul.tb@gmail.com
-phone: 0097696651441
+phone: "+97696651441"
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -47,7 +47,7 @@ linkedin_username: khongorzul-tumurbaatar-83762b252
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
   Results-driven accounting professional with a strong background in budgeting, forecasting, and management accounting. Expertise in financial reporting, compliance, and process optimization. Adept at strategic planning and problem-solving, with a comprehensive understanding of accounting principles and procedures. Demonstrated success in leveraging accounting software knowledge to provide valuable insights to senior management, driving organizational growth and efficiency. Multilingual and collaborative, committed to achieving excellence in the field of finance.
 
 content:
@@ -56,7 +56,7 @@ content:
     content:
       - layout: left
         title: Level 3 Associate
-        sub_title: PWC, Ulaanbaatar
+        sub_title: PwC, Ulaanbaatar
         caption: 2020-12 - Current
         description: |
             - Management of banking processes and transactions
@@ -101,13 +101,28 @@ content:
         description: |
           Participated in an intensive, year-long course organized by KPMG, focusing on the preparation and analysis of consolidated financial statements. The course provided in-depth knowledge of accounting standards, principles, and methodologies for the consolidation of financial statements. Through a combination of theoretical instruction and practical exercises, I gained the expertise needed to effectively compile and analyze consolidated financial information, enabling me to contribute meaningfully to any organization's financial management and reporting processes.
 
+  - title: Skills
+    layout: text
+    content: |
+      - 💹 **Strong technical accounting knowledge**: Proficiency in accounting principles, standards, and regulations to ensure accurate and compliant financial reporting.
+      - 🧠 **Analytical and critical thinking**: Ability to analyze financial data, identify trends, and assess the financial performance of organizations.
+      - 🔍 **Attention to detail**: Ensuring accuracy and consistency in financial reporting and documentation.
+      - 💡 **Problem-solving**: Identifying and addressing financial issues or discrepancies, as well as providing effective solutions.
+      - ⏰ **Time management and organization**: Efficiently managing multiple tasks, meeting deadlines, and prioritizing workload.
+      - 💬 **Communication**: Excellent written and verbal communication skills to convey complex financial information clearly and concisely to clients and colleagues.
+      - 👥 **Teamwork and collaboration**: Ability to work effectively in a team environment, contributing to group projects, and sharing knowledge and expertise.
+      - 🔄 **Adaptability and flexibility**: Willingness to learn and adapt to new accounting regulations, software, and industry trends.
+      - 🤝 **Client relationship management**: Building and maintaining strong relationships with clients, understanding their needs, and providing tailored solutions.
+      - 💻 **Proficiency in accounting software**: Familiarity with popular accounting software such as QuickBooks, SAP, or Oracle, as well as Microsoft Office Suite (Excel, Word, PowerPoint).
+      - ⚖️ **Ethical and professional conduct**: Upholding the highest standards of integrity, confidentiality, and professionalism in all work-related matters.
+
   - title: Languages
     layout: text
     content: |
-      🇺🇸 English: Fluent; experience in international environments.<br>
-      🇷🇺 Russian: Fluent; gained from studying in Russia.<br>
-      🇧🇬 Bulgarian: Fluent; native speaker born in Sofia.<br>
-      🇲🇳 Mongolian: Fluent; native language with local market understanding.<br>
+      - 🇺🇸 **English**: Fluent; experience in international environments.
+      - 🇷🇺 **Russian**: Fluent; gained from studying in Russia.
+      - 🇧🇬 **Bulgarian**: Fluent; native speaker born in Sofia.
+      - 🇲🇳 **Mongolian**: Fluent; native language with local market understanding.
 
 # Footer
 footer_show_references: true
