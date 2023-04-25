@@ -45,13 +45,13 @@ linkedin_username: khongorzul-tumurbaatar-83762b252
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: 🧑‍💼 About Me
 about_profile_image: images/profile.jpg
 about_content: |
   Results-driven accounting professional with a strong background in budgeting, forecasting, and management accounting. Expertise in financial reporting, compliance, and process optimization. Adept at strategic planning and problem-solving, with a comprehensive understanding of accounting principles and procedures. Demonstrated success in leveraging accounting software knowledge to provide valuable insights to senior management, driving organizational growth and efficiency. Multilingual and collaborative, committed to achieving excellence in the field of finance.
 
 content:
-  - title: Experience
+  - title: 🏢 Experience
     layout: list
     content:
       - layout: left
@@ -85,7 +85,7 @@ content:
             - Organize and archive source documents for audit purposes
             - Perform data entry and update financial records in accounting software
 
-  - title: Education
+  - title: 🎓 Education
     layout: list
     content:
       - layout: left
@@ -101,7 +101,7 @@ content:
         description: |
           Participated in an intensive, year-long course organized by KPMG, focusing on the preparation and analysis of consolidated financial statements. The course provided in-depth knowledge of accounting standards, principles, and methodologies for the consolidation of financial statements. Through a combination of theoretical instruction and practical exercises, I gained the expertise needed to effectively compile and analyze consolidated financial information, enabling me to contribute meaningfully to any organization's financial management and reporting processes.
 
-  - title: Skills
+  - title: 💼 Skills
     layout: text
     content: |
       - 💹 **Strong technical accounting knowledge**: Proficiency in accounting principles, standards, and regulations to ensure accurate and compliant financial reporting.
@@ -116,7 +116,7 @@ content:
       - 💻 **Proficiency in accounting software**: Familiarity with popular accounting software such as QuickBooks, SAP, or Oracle, as well as Microsoft Office Suite (Excel, Word, PowerPoint).
       - ⚖️ **Ethical and professional conduct**: Upholding the highest standards of integrity, confidentiality, and professionalism in all work-related matters.
 
-  - title: Languages
+  - title: 🌐 Languages
     layout: text
     content: |
       - 🇺🇸 **English**: Fluent; experience in international environments.
