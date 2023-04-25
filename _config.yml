@@ -55,8 +55,8 @@ content:
     layout: list
     content:
       - layout: left
-        title: PWC, Ulaanbaatar
-        sub_title: Level 3 Associate
+        title: Level 3 Associate
+        sub_title: PWC, Ulaanbaatar
         caption: 2020-12 - Current
         description: |
             - Management of banking processes and transactions
@@ -66,8 +66,8 @@ content:
             - Evaluation of tender documents to ensure adherence to regulatory requirements
             - Sharing expertise in various accounting software solutions and offering strategic advice to senior management for optimal organizational performance
       - layout: left
-        title: Bayanzurkh State fund, Ulaanbaatar
-        sub_title: Settlement Specialist
+        title: Settlement Specialist
+        sub_title: Bayanzurkh State fund, Ulaanbaatar
         caption: 2020-03 - 2020-12
         description: |
             - Coordinate and oversee the implementation of budgets for financial institutions, while managing daily expenditure transactions
@@ -75,8 +75,8 @@ content:
             - Evaluate monthly budget performance and identify areas for improvement
             - Accurately record expenditure transactions for financial entities and ensure prompt processing of supporting documentation
       - layout: left
-        title: The Coca-Cola Company, Ulaanbaatar
-        sub_title: Assistant Accountant
+        title: Assistant Accountant
+        sub_title: The Coca-Cola Company, Ulaanbaatar
         caption: 2020-03 - 2020-12
         description: |
             - Assist in preparing financial statements and reports
@@ -89,25 +89,25 @@ content:
     layout: list
     content:
       - layout: left
-        title: Financial University, Moscow
+        title: International Economics
         caption: 2015-09 - 2019-07
-        sub_title: Bachelor Degree, International Economics
+        sub_title: Financial University, Moscow
         description: |
-          Bachelor's in Economics, focusing on Accounting, Account Analysis, and Audit, providing a solid foundation for a finance and accounting career.
+          Completed a Bachelor's Degree in Economics, focusing on majors in Accounting, Account Analysis, and Audit. The program provided a comprehensive understanding of economic theories and principles, along with practical knowledge and skills in accounting, financial analysis, and auditing practices. The rigorous curriculum, combined with hands-on learning experiences, prepared me for a successful career in finance and accounting.
       - layout: left
-        title: KPMG, Moscow
+        title: Consolidated Financial Statements
         caption: 2018-09 - 2019-07
-        sub_title: Preparation of Consolidated Financial Statements
+        sub_title: KPMG, Moscow
         description: |
-          Completed a year-long KPMG course on consolidated financial statements, acquiring expertise in accounting standards and methodologies. Gained practical skills in compiling and analyzing consolidated financial data, enhancing my contributions to financial management and reporting.
+          Participated in an intensive, year-long course organized by KPMG, focusing on the preparation and analysis of consolidated financial statements. The course provided in-depth knowledge of accounting standards, principles, and methodologies for the consolidation of financial statements. Through a combination of theoretical instruction and practical exercises, I gained the expertise needed to effectively compile and analyze consolidated financial information, enabling me to contribute meaningfully to any organization's financial management and reporting processes.
 
   - title: Languages
     layout: text
     content: |
-      🇺🇸 English: Fluent proficiency, honed through working in international environments, enabling seamless communication and collaboration with diverse teams.<br>
-      🇷🇺 Russian: Fluent proficiency, acquired through studying in Russia, providing valuable insights and cultural understanding for effective collaboration in the region.<br>
-      🇧🇬 Bulgarian: Fluent proficiency, as a native speaker born in Sofia, offering a unique perspective and strong connection to Bulgarian culture and business practices.<br>
-      🇲🇳 Mongolian: Fluent proficiency, as a proud Mongolian, fostering a deep understanding of the local market and ability to navigate the business landscape with ease.<br>
+      🇺🇸 English: Fluent; experience in international environments.<br>
+      🇷🇺 Russian: Fluent; gained from studying in Russia.<br>
+      🇧🇬 Bulgarian: Fluent; native speaker born in Sofia.<br>
+      🇲🇳 Mongolian: Fluent; native language with local market understanding.<br>
 
 # Footer
 footer_show_references: true
