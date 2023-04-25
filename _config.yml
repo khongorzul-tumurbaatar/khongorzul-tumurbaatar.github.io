@@ -104,10 +104,10 @@ content:
   - title: Languages
     layout: text
     content: |
-      - 🇺🇸 English: Fluent proficiency, honed through working in international environments, enabling seamless communication and collaboration with diverse teams.
-      - 🇷🇺 Russian: Fluent proficiency, acquired through studying in Russia, providing valuable insights and cultural understanding for effective collaboration in the region.
-      - 🇧🇬 Bulgarian: Fluent proficiency, as a native speaker born in Sofia, offering a unique perspective and strong connection to Bulgarian culture and business practices.
-      - 🇲🇳 Mongolian: Fluent proficiency, as a proud Mongolian, fostering a deep understanding of the local market and ability to navigate the business landscape with ease.
+      🇺🇸 English: Fluent proficiency, honed through working in international environments, enabling seamless communication and collaboration with diverse teams.<br>
+      🇷🇺 Russian: Fluent proficiency, acquired through studying in Russia, providing valuable insights and cultural understanding for effective collaboration in the region.<br>
+      🇧🇬 Bulgarian: Fluent proficiency, as a native speaker born in Sofia, offering a unique perspective and strong connection to Bulgarian culture and business practices.<br>
+      🇲🇳 Mongolian: Fluent proficiency, as a proud Mongolian, fostering a deep understanding of the local market and ability to navigate the business landscape with ease.<br>
 
 # Footer
 footer_show_references: true
