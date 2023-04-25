@@ -100,7 +100,9 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: References available upon request. Contact me for more information or to discuss potential opportunities.
+references_title: |
+  References available upon request. Contact me for more information or to discuss potential opportunities.<br><br>
+  [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)<br><br>
 
 # Build settings
 remote_theme: sproogen/resume-theme
